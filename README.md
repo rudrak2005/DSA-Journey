@@ -107,13 +107,13 @@ For Windows:
 
 ---
 
-## 🎯 Why I Built This Project
+##  Why I Built This Project
 
 I created this project to strengthen my C++ fundamentals and get hands-on experience with OOP, STL containers, and file handling. It helped me understand how real-world applications manage and store data.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Graphical User Interface (GUI)
 * Database Integration
@@ -123,7 +123,7 @@ I created this project to strengthen my C++ fundamentals and get hands-on experi
 
 ---
 
-## 👨‍💻 Created 
+##  Created 
 
 **Rudraksh Kumar**
 
