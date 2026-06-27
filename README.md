@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  Student Management System (C++)
 
 This is a simple Student Management System developed in C++ as a practice project to improve my understanding of Object-Oriented Programming (OOP), STL, and File Handling.
@@ -69,7 +69,7 @@ Student-Management-System-CPP/
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 Compile the project:
 
@@ -129,6 +129,6 @@ I created this project to strengthen my C++ fundamentals and get hands-on experi
 **Rudraksh Kumar**
 
 B.Tech Computer Science Engineering Student
-=======
 
->>>>>>> 9c248dc438b7ac376de91a570a2dfe070839fd37
+
+
