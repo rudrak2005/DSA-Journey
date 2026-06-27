@@ -1,4 +1,4 @@
-# 💻 C++ Projects
+#  C++ Projects
 
 Welcome to my C++ Projects repository.
 
@@ -8,7 +8,7 @@ I'll keep adding more projects here as I continue learning.
 
 ---
 
-## 📂 Projects
+##  Projects
 
 | No. | Project                   | Concepts                |
 | --- | ------------------------- | ----------------------- |
@@ -20,7 +20,7 @@ I'll keep adding more projects here as I continue learning.
 
 ---
 
-## 🛠️ What I'm Learning
+##  What I'm Learning
 
 * Object-Oriented Programming (OOP)
 * Standard Template Library (STL)
@@ -30,7 +30,7 @@ I'll keep adding more projects here as I continue learning.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Open any project folder and compile the source files.
 
@@ -54,13 +54,13 @@ Run the program:
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository is a collection of my C++ practice projects. Each project teaches me something new, and I'll continue updating this repository as I learn more and build better applications.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Rudraksh Kumar**
 
